@@ -1,13 +1,10 @@
 #include <iostream>
+#include "fib.h"
 using namespace std;
 
-int fib (int a){
-    if (a<2) {
-        dsfsdf
-    }
-};
+
 
 int main() {
-
+    cout << fib(7);
     return 0;
 }
