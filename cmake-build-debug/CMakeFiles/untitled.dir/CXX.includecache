@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/zoosh/CLionProjects/fib/fib.h
+
+/cygdrive/c/Users/zoosh/CLionProjects/fib/main.cpp
+iostream
+-
+fib.h
+/cygdrive/c/Users/zoosh/CLionProjects/fib/fib.h
+
