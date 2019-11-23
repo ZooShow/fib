@@ -1,7 +1,9 @@
 #include <iostream>
 #include "fib.h"
 using namespace std;
+
 int main() {
-    cout << fib(7);
+    int res = fib(7);
+    cout << res;
     return 0;
 }

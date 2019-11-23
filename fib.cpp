@@ -1,3 +1,5 @@
+#include "fib.h"
+#include <iostream>
 int fib (int a){
     if (a<1){
         std::cout << "Число должно быть > 0";
